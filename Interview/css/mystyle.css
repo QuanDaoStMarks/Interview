@@ -1,0 +1,66 @@
+body {
+
+/* background-color: #f4c242; */
+background-image: url("../images/fabric.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+padding: 0;
+margin: 0;
+
+}
+
+h1{
+
+font-family: 'Sniglet', cursive;
+
+color: #f4c242;
+font-size: 50pt;
+background-color: #772708 ;
+margin: 0;
+height: 200px;
+padding-top: 5%;
+text-shadow: 5px 5px #493a37;
+
+}
+
+p{
+     font-family: 'Kalam', cursive;
+     color: #d12204;
+     font-size: 20px;
+     padding-right:20%;
+     padding-left:20%;
+     text-shadow: 1px 1px #493a37; 
+}
+
+
+h2{
+
+
+font-family: 'Sniglet', cursive;
+text-align: center;
+color: #772708;
+font-size: 40pt;
+padding-right:15%;
+padding-left:15%
+
+
+}
+
+
+#TopPic{
+
+
+text-align: center;
+/* background-image: url("../images/yellow.jpg"); */
+padding: 0;
+margin: 0;
+
+
+}
+
+
+.imagePair {
+     float:left;
+     width: 49%;
+}
